@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\Review3\Review3\bin\Debug\netcoreapp3.1\Review3.exe
+C:\Users\HP\source\repos\Review3\Review3\bin\Debug\netcoreapp3.1\Review3.deps.json
+C:\Users\HP\source\repos\Review3\Review3\bin\Debug\netcoreapp3.1\Review3.runtimeconfig.json
+C:\Users\HP\source\repos\Review3\Review3\bin\Debug\netcoreapp3.1\Review3.runtimeconfig.dev.json
+C:\Users\HP\source\repos\Review3\Review3\bin\Debug\netcoreapp3.1\Review3.dll
+C:\Users\HP\source\repos\Review3\Review3\bin\Debug\netcoreapp3.1\Review3.pdb
+C:\Users\HP\source\repos\Review3\Review3\obj\Debug\netcoreapp3.1\Review3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Review3\Review3\obj\Debug\netcoreapp3.1\Review3.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Review3\Review3\obj\Debug\netcoreapp3.1\Review3.AssemblyInfo.cs
+C:\Users\HP\source\repos\Review3\Review3\obj\Debug\netcoreapp3.1\Review3.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Review3\Review3\obj\Debug\netcoreapp3.1\Review3.sourcelink.json
+C:\Users\HP\source\repos\Review3\Review3\obj\Debug\netcoreapp3.1\Review3.dll
+C:\Users\HP\source\repos\Review3\Review3\obj\Debug\netcoreapp3.1\Review3.pdb
+C:\Users\HP\source\repos\Review3\Review3\obj\Debug\netcoreapp3.1\Review3.genruntimeconfig.cache
